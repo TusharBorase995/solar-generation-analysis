@@ -500,6 +500,7 @@ else:
     ax.grid(True)
     st.pyplot(fig)
 
+
 # Footer
 st.markdown("---")
 st.markdown("### 📊 Solar Power Generation Analysis Dashboard")
